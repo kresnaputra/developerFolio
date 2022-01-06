@@ -205,7 +205,7 @@ const bigProjects = {
       image: require("./assets/images/bukaloka.png"),
       projectName: "Bukaloka (As Outsourcing)",
       projectDesc:
-        "Travel agency. Discover things to do in Indonesia to explore experience with activities, day tour, attractions, tour package & more.Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Travel agency. Discover things to do in Indonesia to explore experience with activities, day tour, attractions, tour package & more.",
       footerLink: [
         {
           name: "Download App",
