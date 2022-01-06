@@ -386,8 +386,8 @@ const contactInfo = {
   title: emoji("Contact Us ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? Our Inbox is open for all.",
-  number: "+62 8810-3714-5505",
-  email_address: "kresnaputra019@gmail.com"
+  number: "+62 8810-3714-5505 (WhatsApp)",
+  email_address: "dev@agaratechnology.com"
 };
 
 // Twitter Section
